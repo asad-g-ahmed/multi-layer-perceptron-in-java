@@ -7,4 +7,4 @@ The engine package contains the Value class that can backpropagate.
 
 The neuralnetwork package contains the multi layer perceptron and its associated classes.
 
-The demo package contains the Demo class with the main method that demos how to use the perecptron to solve problems. The demo uses the dataset contained in the 2 csv files. These csv files were generated from a run of the make_moons dataset.
+The demo package contains the Demo class with the main method that demos how to use the perceptron to solve problems. The demo uses the dataset contained in the 2 csv files. These csv files were generated from a run of the make_moons dataset.
